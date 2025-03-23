@@ -1,0 +1,11 @@
+.container text-center{
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+}
+.row align-items-start{
+    background-color: antiquewhite;
+}
+.col{
+    color: rgb(17, 0, 77);
+}
